@@ -4,7 +4,7 @@ function App() {
   return (
     // parent
     <div>
-        {/* intro */}
+      {/* intro */}
       <div
         id="intro"
         className="parallax-window"
@@ -214,6 +214,7 @@ function App() {
         </div>
       </div>
       {/* about */}
+      {/* git push 22222 */}
       <div
         id="about"
         className="parallax-window"
